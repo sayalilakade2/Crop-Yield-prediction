@@ -1,0 +1,270 @@
+State_Name,District_Name,Crop_Year,Season,Crop,Area,Fertilizer,Pesticide,tempmax,tempmin,humidity,precip,windspeed,solarradiation,solarenergy,uvindex,Production
+Uttar Pradesh,ALIGARH,2005,Whole Year ,Banana,2,255675.42,440.44,0,0,,,,,,,77
+Uttar Pradesh,ALIGARH,2008,Summer     ,Banana,2,284792.64,179.19,0,0,,,,,,,77
+Uttar Pradesh,ALIGARH,2009,Summer     ,Banana,1,363995.52,397.12,0,0,,,,,,,41
+Uttar Pradesh,ALIGARH,2012,Summer     ,Banana,1,364356,717.75,20.9,11.9,76.3,24.4,16.9,146.5,12.7,6,45
+Uttar Pradesh,ALIGARH,2013,Summer     ,Banana,1,355737.2,731.29,19.1,3.1,46.9,0,12.6,162.5,14.1,6,44
+Uttar Pradesh,ALIGARH,2014,Summer     ,Banana,1,380875.64,711.72,19.5,6.5,76.6,0,14.4,152.9,13.2,6,45
+Uttar Pradesh,ALLAHABAD,2004,Whole Year ,Banana,7,368493.36,805.53,,,,,,,,,255
+Uttar Pradesh,ALLAHABAD,2005,Whole Year ,Banana,9,723543.62,1512.06,,,,,,,,,343
+Uttar Pradesh,ALLAHABAD,2006,Whole Year ,Banana,10,517372,1181.6,,,,,,,,,388
+Uttar Pradesh,ALLAHABAD,2008,Summer     ,Banana,9,10922872.32,26363.64,,,,,,,,,343
+Uttar Pradesh,ALLAHABAD,2009,Summer     ,Banana,14,11430396.2,24664.85,,,,,,,,,576
+Uttar Pradesh,ALLAHABAD,2011,Summer     ,Banana,2,12467199.6,26856.45,,,,,,,,,87
+Uttar Pradesh,ALLAHABAD,2013,Summer     ,Banana,6,174969.1,339.15,,,,,,,,,261
+Uttar Pradesh,ALLAHABAD,2014,Summer     ,Banana,5,238760.72,418.11,,,,,,,,,226
+Uttar Pradesh,AMBEDKAR NAGAR,2009,Summer     ,Banana,6,,,18.7,8.9,79.1,0,3.6,,,,246
+Uttar Pradesh,AMBEDKAR NAGAR,2014,Summer     ,Banana,17,,,25.4,11.8,66,0.3,16.9,138.6,12,6,767
+Uttar Pradesh,AMETHI,2011,Summer     ,Banana,1,,,22.7,7.8,66.5,0,23.4,172.5,14.9,7,43
+Uttar Pradesh,AURAIYA,2005,Whole Year ,Banana,1,,,0,0,,,,,,,38
+Uttar Pradesh,AURAIYA,2008,Summer     ,Banana,1,,,0,0,,,,,,,38
+Uttar Pradesh,AURAIYA,2009,Summer     ,Banana,12,,,0,0,,,,,,,493
+Uttar Pradesh,AURAIYA,2012,Summer     ,Banana,3,,,18.4,11,88.9,29.8,23.8,73.1,6.1,4,134
+Uttar Pradesh,AURAIYA,2013,Summer     ,Banana,4,,,22,7.4,41.3,0,10.8,140.8,12.2,6,174
+Uttar Pradesh,AURAIYA,2014,Summer     ,Banana,6,,,22,10.7,76,0,11.9,136,11.8,5,271
+Uttar Pradesh,AZAMGARH,2004,Whole Year ,Banana,8,,,13.1,5.1,89.5,0,7.6,,,,291
+Uttar Pradesh,AZAMGARH,2005,Whole Year ,Banana,1,,,23.1,13.1,74.2,0,7.6,,,,38
+Uttar Pradesh,AZAMGARH,2008,Summer     ,Banana,1,,,23.1,6.9,55.5,0,7.6,,,,38
+Uttar Pradesh,AZAMGARH,2009,Summer     ,Banana,2,,,23.1,9.7,75.6,0,9.4,,,,82
+Uttar Pradesh,BAGHPAT,2012,Summer     ,Banana,1,,,18.1,13,84.4,0.217,12,109.2,9.5,5,45
+Uttar Pradesh,BAHRAICH,2004,Whole Year ,Banana,26,,,0,0,,,,,,,946
+Uttar Pradesh,BAHRAICH,2005,Whole Year ,Banana,38,,,0,0,,,,,,,1448
+Uttar Pradesh,BAHRAICH,2006,Whole Year ,Banana,36,,,0,0,,,,,,,1397
+Uttar Pradesh,BAHRAICH,2008,Summer     ,Banana,38,,,0,0,,,,,,,1448
+Uttar Pradesh,BAHRAICH,2009,Summer     ,Banana,72,,,0,0,,,,,,,2961
+Uttar Pradesh,BAHRAICH,2011,Summer     ,Banana,128,,,21.1,9.5,70.8,0.7,24.5,160,13.8,6,5592
+Uttar Pradesh,BAHRAICH,2012,Summer     ,Banana,82,,,16.9,12.1,84.7,41.8,21.6,49.8,4.4,3,3661
+Uttar Pradesh,BAHRAICH,2013,Summer     ,Banana,96,,,19.7,5.6,50,0,11.5,150.4,13,6,4180
+Uttar Pradesh,BAHRAICH,2014,Summer     ,Banana,100,,,22.9,9.7,76.5,1.1,20.5,105.3,9.1,4,4511
+Uttar Pradesh,BALLIA,2009,Summer     ,Banana,4,,,0,0,,,,,,,165
+Uttar Pradesh,BALLIA,2011,Summer     ,Banana,18,,,22.8,11.4,68.3,0.6,22.3,169,14.7,6,786
+Uttar Pradesh,BALLIA,2012,Summer     ,Banana,18,,,26.8,14.7,73.6,7.1,19.8,115.1,9.9,5,804
+Uttar Pradesh,BALLIA,2013,Summer     ,Banana,5,,,21.4,9.3,57.7,0,7.6,135.3,11.6,5,218
+Uttar Pradesh,BALLIA,2014,Summer     ,Banana,7,,,25.7,11.9,66.7,0,15.5,150.3,13,6,316
+Uttar Pradesh,BALRAMPUR,2006,Whole Year ,Banana,2,,,0,0,,,,,,,78
+Uttar Pradesh,BARABANKI,2004,Whole Year ,Banana,3,,,14.1,8.1,83.8,0,5.4,,,,109
+Uttar Pradesh,BARABANKI,2006,Whole Year ,Banana,4,,,28.1,10.1,69.3,0,7.6,,,,155
+Uttar Pradesh,BARABANKI,2011,Summer     ,Banana,27,,,19.6,9.2,79.9,0,21.2,166.4,14.3,6,1180
+Uttar Pradesh,BARABANKI,2012,Summer     ,Banana,29,,,18.1,13.1,91.4,54,27.7,53.7,4.6,2,1295
+Uttar Pradesh,BARABANKI,2013,Summer     ,Banana,163,,,20.1,6.6,62.8,0,9.7,132.4,11.3,5,7097
+Uttar Pradesh,BARABANKI,2014,Summer     ,Banana,120,,,23,12,80.9,0,17.6,89.9,7.7,4,5413
+Uttar Pradesh,BAREILLY,2011,Summer     ,Banana,1,,,18.6,5.3,84.2,8,19.8,159.4,13.5,6,44
+Uttar Pradesh,BASTI,2004,Whole Year ,Banana,8,,,13.1,9.2,81.5,0,,,,,291
+Uttar Pradesh,BASTI,2005,Whole Year ,Banana,7,,,19.9,13.1,71.1,0,3.6,,,,267
+Uttar Pradesh,BASTI,2006,Whole Year ,Banana,8,,,21.9,11.4,68.6,0,1.8,,,,311
+Uttar Pradesh,BASTI,2008,Summer     ,Banana,7,,,22.7,6.7,62.2,0,1.8,,,,267
+Uttar Pradesh,BASTI,2009,Summer     ,Banana,7,,,18.7,8.9,79.1,0,3.6,,,,288
+Uttar Pradesh,BASTI,2011,Summer     ,Banana,6,,,22,9.5,73.2,1,24.5,161.5,14,6,262
+Uttar Pradesh,BUDAUN,2004,Whole Year ,Banana,4,,,13.9,9.4,77.8,0,1.8,,,,146
+Uttar Pradesh,BUDAUN,2006,Whole Year ,Banana,4,,,24.4,10.7,72.9,0,1.8,,,,155
+Uttar Pradesh,BUDAUN,2011,Summer     ,Banana,3,,,19.9,5.8,78.7,8,20.2,160.4,13.6,6,131
+Uttar Pradesh,BUDAUN,2012,Summer     ,Banana,5,,,21.2,21.2,84.3,25,24.8,105.8,9.2,5,223
+Uttar Pradesh,BUDAUN,2014,Summer     ,Banana,6,,,21.1,9.2,79.3,3,16.9,138.2,12,6,271
+Uttar Pradesh,BULANDSHAHR,2013,Summer     ,Banana,4,,,18.8,5,90.5,0,11.9,151.9,12.9,6,174
+Uttar Pradesh,BULANDSHAHR,2014,Summer     ,Banana,6,,,17.5,8.5,88.6,0,13.8,153.5,13.3,6,271
+Uttar Pradesh,DEORIA,2009,Summer     ,Banana,5,,,18.7,8.9,79.1,0,3.6,,,,206
+Uttar Pradesh,ETAH,2004,Whole Year ,Banana,9,,,0,0,,,,,,,328
+Uttar Pradesh,ETAH,2005,Whole Year ,Banana,10,,,0,0,,,,,,,381
+Uttar Pradesh,ETAH,2006,Whole Year ,Banana,8,,,0,0,,,,,,,310
+Uttar Pradesh,ETAH,2008,Summer     ,Banana,10,,,0,0,,,,,,,381
+Uttar Pradesh,ETAH,2009,Summer     ,Banana,9,,,0,0,,,,,,,370
+Uttar Pradesh,ETAH,2011,Summer     ,Banana,2,,,20.9,5.6,62.7,0,16.6,163.4,14.1,6,87
+Uttar Pradesh,ETAH,2012,Summer     ,Banana,8,,,19.8,11.8,80.2,26,18.7,98.7,8.6,5,356
+Uttar Pradesh,ETAH,2013,Summer     ,Banana,7,,,19.6,3.6,46.2,0,11.9,154.9,13.3,6,304
+Uttar Pradesh,ETAH,2014,Summer     ,Banana,7,,,20.8,8.6,76.1,0,14.4,146.6,12.6,6,316
+Uttar Pradesh,FAIZABAD,2004,Whole Year ,Banana,1,,,0,0,,,,,,,36
+Uttar Pradesh,FAIZABAD,2005,Whole Year ,Banana,2,,,0,0,,,,,,,76
+Uttar Pradesh,FAIZABAD,2006,Whole Year ,Banana,1,,,0,0,,,,,,,39
+Uttar Pradesh,FAIZABAD,2008,Summer     ,Banana,2,,,0,0,,,,,,,76
+Uttar Pradesh,FAIZABAD,2009,Summer     ,Banana,15,,,0,0,,,,,,,617
+Uttar Pradesh,FAIZABAD,2013,Summer     ,Banana,13,,,20.1,6.7,52.8,0,10.8,133.5,11.6,5,566
+Uttar Pradesh,FAIZABAD,2014,Summer     ,Banana,16,,,21.5,11.9,76.5,0.2,18.4,91.1,7.9,3,722
+Uttar Pradesh,FARRUKHABAD,2004,Whole Year ,Banana,62,,,0,0,,,,,,,2255
+Uttar Pradesh,FARRUKHABAD,2006,Whole Year ,Banana,75,,,0,0,,,,,,,2911
+Uttar Pradesh,FARRUKHABAD,2009,Summer     ,Banana,22,,,0,0,,,,,,,905
+Uttar Pradesh,FARRUKHABAD,2012,Summer     ,Banana,19,,,18.4,11.6,85.4,30.8,23,75.6,6.6,4,848
+Uttar Pradesh,FARRUKHABAD,2013,Summer     ,Banana,20,,,19.7,3.9,45,0,11.9,147.8,12.7,6,871
+Uttar Pradesh,FARRUKHABAD,2014,Summer     ,Banana,22,,,21.5,9.6,75.6,0,15.8,139.8,12,6,992
+Uttar Pradesh,FATEHPUR,2004,Whole Year ,Banana,93,,,0,0,,,,,,,3382
+Uttar Pradesh,FATEHPUR,2005,Whole Year ,Banana,133,,,0,0,,,,,,,5068
+Uttar Pradesh,FATEHPUR,2006,Whole Year ,Banana,132,,,0,0,,,,,,,5124
+Uttar Pradesh,FATEHPUR,2008,Summer     ,Banana,133,,,0,0,,,,,,,5068
+Uttar Pradesh,FATEHPUR,2009,Summer     ,Banana,149,,,0,0,,,,,,,6127
+Uttar Pradesh,FATEHPUR,2012,Summer     ,Banana,350,,,19.3,13.5,91.5,16.9,24.5,58,5.1,2,15629
+Uttar Pradesh,FATEHPUR,2013,Summer     ,Banana,410,,,21.8,9.2,55.7,0,10.8,139,11.9,6,17852
+Uttar Pradesh,FATEHPUR,2014,Summer     ,Banana,214,,,22,11.9,81.8,0.1,12.2,122,10.6,5,9654
+Uttar Pradesh,GHAZIABAD,2009,Summer     ,Banana,62,,,17.1,7.1,89.5,0,14.8,,,,2550
+Uttar Pradesh,GONDA,2009,Summer     ,Banana,15,,,0,0,,,,,,,617
+Uttar Pradesh,GONDA,2011,Summer     ,Banana,10,,,21.7,9.1,67.5,0.1,24.8,164.2,14.3,6,437
+Uttar Pradesh,GONDA,2012,Summer     ,Banana,9,,,19.1,11.8,85,28.1,24.5,53.2,4.6,3,402
+Uttar Pradesh,GONDA,2013,Summer     ,Banana,156,,,20.1,6.7,52.8,0,10.8,133.5,11.6,5,6793
+Uttar Pradesh,GONDA,2014,Summer     ,Banana,39,,,21.5,11.9,76.5,0.2,18.4,91.1,7.9,3,1759
+Uttar Pradesh,GORAKHPUR,2004,Whole Year ,Banana,724,,,13.1,9.2,81.5,0,,,,,26331
+Uttar Pradesh,GORAKHPUR,2005,Whole Year ,Banana,804,,,19.9,13.1,71.1,0,3.6,,,,30636
+Uttar Pradesh,GORAKHPUR,2006,Whole Year ,Banana,767,,,21.9,11.4,68.6,0,1.8,,,,29772
+Uttar Pradesh,GORAKHPUR,2008,Summer     ,Banana,804,,,22.7,6.7,62.2,0,1.8,,,,30636
+Uttar Pradesh,GORAKHPUR,2009,Summer     ,Banana,768,,,18.7,8.9,79.1,0,3.6,,,,31581
+Uttar Pradesh,GORAKHPUR,2011,Summer     ,Banana,667,,,21.6,10.1,75.9,1,22.3,161.1,14,6,29141
+Uttar Pradesh,GORAKHPUR,2012,Summer     ,Banana,761,,,20.7,13.1,72.5,20,25.6,66.9,5.9,4,33981
+Uttar Pradesh,GORAKHPUR,2013,Summer     ,Banana,529,,,20.7,7.1,57.1,0,10.4,138.1,11.8,5,23033
+Uttar Pradesh,GORAKHPUR,2014,Summer     ,Banana,500,,,24.3,11,70.6,0.3,19.4,138.9,11.9,6,22556
+Uttar Pradesh,HARDOI,2011,Summer     ,Banana,9,,,20.8,6.9,66.2,0,22,162.9,14.2,6,393
+Uttar Pradesh,HARDOI,2012,Summer     ,Banana,4,,,17.3,10.6,87,39.7,22.7,56.4,4.9,3,178
+Uttar Pradesh,HATHRAS,2011,Summer     ,Banana,1,,,20.8,4.9,66.4,0,13.7,164.5,14.1,6,44
+Uttar Pradesh,HATHRAS,2012,Summer     ,Banana,1,,,20.4,11.8,81.5,26.8,33.5,119.6,10.3,6,45
+Uttar Pradesh,JALAUN,2009,Summer     ,Banana,1,,,0,0,,,,,,,41
+Uttar Pradesh,JAUNPUR,2004,Whole Year ,Banana,3,,,13.1,5.1,91.5,0,9.4,,,,109
+Uttar Pradesh,JAUNPUR,2005,Whole Year ,Banana,3,,,23.1,13.1,75.1,0,7.6,,,,114
+Uttar Pradesh,JAUNPUR,2006,Whole Year ,Banana,9,,,25.1,8.1,68.2,0,5.4,,,,349
+Uttar Pradesh,JAUNPUR,2008,Summer     ,Banana,3,,,23.1,7.1,53.3,0,7.6,,,,114
+Uttar Pradesh,JAUNPUR,2009,Summer     ,Banana,1,,,24.1,11.4,74.3,0,9.4,,,,41
+Uttar Pradesh,JAUNPUR,2011,Summer     ,Banana,1,,,20.8,12.1,79,0,18.4,178,15.3,7,44
+Uttar Pradesh,JAUNPUR,2012,Summer     ,Banana,4,,,26.1,16.1,87.4,2,22.3,94.7,8.2,4,179
+Uttar Pradesh,KANNAUJ,2009,Summer     ,Banana,2,,,0,0,,,,,,,83
+Uttar Pradesh,KANPUR DEHAT,2004,Whole Year ,Banana,1,,,0,0,,,,,,,36
+Uttar Pradesh,KANPUR DEHAT,2005,Whole Year ,Banana,1,,,0,0,,,,,,,38
+Uttar Pradesh,KANPUR DEHAT,2008,Summer     ,Banana,1,,,0,0,,,,,,,38
+Uttar Pradesh,KANPUR DEHAT,2009,Summer     ,Banana,1,,,0,0,,,,,,,41
+Uttar Pradesh,KANPUR DEHAT,2012,Summer     ,Banana,3,,,18.5,13.1,91.3,24.1,23.4,65.2,5.6,4,134
+Uttar Pradesh,KAUSHAMBI,2004,Whole Year ,Banana,191,,,12.4,7.1,93,,0,,,,6946
+Uttar Pradesh,KAUSHAMBI,2005,Whole Year ,Banana,209,,,25.1,15.1,71.1,,5.4,,,,7964
+Uttar Pradesh,KAUSHAMBI,2006,Whole Year ,Banana,395,,,26.1,11.7,63.4,0,3.6,,,,15332
+Uttar Pradesh,KAUSHAMBI,2008,Summer     ,Banana,209,,,21.7,8.2,56.9,0,3.6,,,,7964
+Uttar Pradesh,KAUSHAMBI,2009,Summer     ,Banana,264,,,17.7,11.4,86,,5.4,,,,10856
+Uttar Pradesh,KAUSHAMBI,2011,Summer     ,Banana,228,,,22.5,7.4,61.3,0,22.3,180.5,15.6,7,9962
+Uttar Pradesh,KAUSHAMBI,2012,Summer     ,Banana,262,,,26.2,14.7,88.2,16.6,27.4,105.5,9.1,5,11699
+Uttar Pradesh,KAUSHAMBI,2013,Summer     ,Banana,200,,,22.9,11.4,62.5,0,11.2,143.1,12.3,6,8709
+Uttar Pradesh,KAUSHAMBI,2014,Summer     ,Banana,245,,,22.2,11.3,82.5,0,10.4,146.9,12.9,6,11052
+Uttar Pradesh,KHERI,2004,Whole Year ,Banana,28,,,0,0,,,,,,,1019
+Uttar Pradesh,KHERI,2005,Whole Year ,Banana,49,,,0,0,,,,,,,1867
+Uttar Pradesh,KHERI,2006,Whole Year ,Banana,28,,,0,0,,,,,,,1087
+Uttar Pradesh,KHERI,2008,Summer     ,Banana,49,,,0,0,,,,,,,1867
+Uttar Pradesh,KHERI,2009,Summer     ,Banana,37,,,0,0,,,,,,,1521
+Uttar Pradesh,KHERI,2011,Summer     ,Banana,103,,,19.8,7.8,74.5,0.7,22.7,161.7,14,6,4500
+Uttar Pradesh,KHERI,2012,Summer     ,Banana,49,,,16.6,11.2,87.5,49.2,27,54.1,4.6,3,2188
+Uttar Pradesh,KHERI,2013,Summer     ,Banana,100,,,19.5,4.3,51.1,0,11.9,154.4,13.4,6,4354
+Uttar Pradesh,KHERI,2014,Summer     ,Banana,67,,,22.6,10.8,77.7,1.4,18.7,140,12,6,3023
+Uttar Pradesh,KUSHI NAGAR,2004,Whole Year ,Banana,194,,,13.1,9.2,81.5,0,0,,,,7055
+Uttar Pradesh,KUSHI NAGAR,2005,Whole Year ,Banana,280,,,19.9,13.1,71.1,0,3.6,,,,10670
+Uttar Pradesh,KUSHI NAGAR,2006,Whole Year ,Banana,155,,,21.9,11.4,68.6,0,1.8,,,,6016
+Uttar Pradesh,KUSHI NAGAR,2008,Summer     ,Banana,280,,,22.7,6.7,62.2,0,1.8,,,,10670
+Uttar Pradesh,KUSHI NAGAR,2009,Summer     ,Banana,440,,,18.7,8.9,79.1,0,3.6,,,,18093
+Uttar Pradesh,KUSHI NAGAR,2011,Summer     ,Banana,567,,,22.2,11,74.4,1,22,164.5,14.1,6,24771
+Uttar Pradesh,KUSHI NAGAR,2012,Summer     ,Banana,435,,,24.4,13.3,73.5,20,22.7,99.5,8.5,4,19424
+Uttar Pradesh,KUSHI NAGAR,2013,Summer     ,Banana,375,,,20.7,7.9,59.7,0,8.6,130.6,11.3,5,16328
+Uttar Pradesh,KUSHI NAGAR,2014,Summer     ,Banana,548,,,25.5,11.5,65.1,0,17.3,144.9,12.5,6,24722
+Uttar Pradesh,LUCKNOW,2004,Whole Year ,Banana,13,,,14.1,8.1,83.8,0,5.4,,,,473
+Uttar Pradesh,LUCKNOW,2005,Whole Year ,Banana,23,,,20.1,14.1,80.4,0,11.2,,,,876
+Uttar Pradesh,LUCKNOW,2006,Whole Year ,Banana,14,,,28.1,10.1,69.3,0,7.6,,,,544
+Uttar Pradesh,LUCKNOW,2008,Summer     ,Banana,23,,,21.1,7.1,53.8,0,7.6,,,,876
+Uttar Pradesh,LUCKNOW,2009,Summer     ,Banana,23,,,17.1,9.1,80.4,0,13,,,,946
+Uttar Pradesh,LUCKNOW,2012,Summer     ,Banana,24,,,18.1,13.1,91.5,54,27.7,63.5,5.3,4,1072
+Uttar Pradesh,LUCKNOW,2013,Summer     ,Banana,77,,,20.1,6.6,61.9,0,9.7,133.4,11.4,5,3353
+Uttar Pradesh,LUCKNOW,2014,Summer     ,Banana,159,,,23,12,79.9,0,15.5,119.2,10.2,5,7173
+Uttar Pradesh,MAHARAJGANJ,2004,Whole Year ,Banana,181,,,13.1,9.2,81.5,0,0,,,,6583
+Uttar Pradesh,MAHARAJGANJ,2005,Whole Year ,Banana,201,,,19.9,13.1,70.6,0,3.6,,,,7659
+Uttar Pradesh,MAHARAJGANJ,2006,Whole Year ,Banana,252,,,22.2,9.9,69.8,0,0.8,,,,9782
+Uttar Pradesh,MAHARAJGANJ,2008,Summer     ,Banana,201,,,22.7,6.7,62.7,0,1.8,,,,7659
+Uttar Pradesh,MAHARAJGANJ,2009,Summer     ,Banana,208,,,18.7,8.9,79.7,0,3.6,,,,8553
+Uttar Pradesh,MAHARAJGANJ,2011,Summer     ,Banana,174,,,21.5,11.2,76.8,1,21.2,159.6,13.9,6,7602
+Uttar Pradesh,MAHARAJGANJ,2012,Summer     ,Banana,159,,,22.3,13.1,69.2,20,19.8,86,7.4,4,7100
+Uttar Pradesh,MAHARAJGANJ,2013,Summer     ,Banana,112,,,20.9,7.5,63.6,0,10.4,143.4,12.4,6,4877
+Uttar Pradesh,MAHARAJGANJ,2014,Summer     ,Banana,73,,,24.7,11.1,69.6,0,19.1,151.2,13.2,6,3293
+Uttar Pradesh,MAINPURI,2005,Whole Year ,Banana,1,,,0,0,,,,,,,38
+Uttar Pradesh,MAINPURI,2008,Summer     ,Banana,1,,,0,0,,,,,,,38
+Uttar Pradesh,MAINPURI,2012,Summer     ,Banana,25,,,18.8,11.5,85.2,26.3,20.2,85.1,7.4,5,1116
+Uttar Pradesh,MAINPURI,2013,Summer     ,Banana,13,,,20,4.6,46.4,0,11.5,146.4,12.6,6,566
+Uttar Pradesh,MAINPURI,2014,Summer     ,Banana,27,,,21.1,8.8,76.3,0,13.3,147.1,12.7,6,1218
+Uttar Pradesh,MATHURA,2005,Whole Year ,Banana,1,,,0,0,,,,,,,38
+Uttar Pradesh,MATHURA,2006,Whole Year ,Banana,1,,,0,0,,,,,,,39
+Uttar Pradesh,MATHURA,2008,Summer     ,Banana,1,,,17.1,3.4,67.4,,11.2,,,,38
+Uttar Pradesh,MATHURA,2009,Summer     ,Banana,1,,,15.3,5.7,86.2,,9.4,,,,41
+Uttar Pradesh,MAU,2005,Whole Year ,Banana,1,,,25.1,15.1,71.1,,5.4,,,,38
+Uttar Pradesh,MAU,2008,Summer     ,Banana,1,,,21.7,8.2,56.9,,3.6,,,,38
+Uttar Pradesh,MAU,2009,Summer     ,Banana,2,,,17.7,11.4,86,,5.4,,,,82
+Uttar Pradesh,MIRZAPUR,2004,Whole Year ,Banana,1,,,13.1,5.1,91.5,0,9.4,,,,36
+Uttar Pradesh,MIRZAPUR,2005,Whole Year ,Banana,1,,,23.1,13.1,75.1,0,7.6,,,,38
+Uttar Pradesh,MIRZAPUR,2008,Summer     ,Banana,1,,,23.1,7.1,53.3,0,7.6,,,,38
+Uttar Pradesh,MIRZAPUR,2009,Summer     ,Banana,1,,,24.1,11.4,74.3,0,9.4,,,,41
+Uttar Pradesh,MIRZAPUR,2013,Summer     ,Banana,1,,,22.1,10.1,67.2,0,11.2,154.2,13.5,6,44
+Uttar Pradesh,MORADABAD,2004,Whole Year ,Banana,2,,,0,0,,,,,,,73
+Uttar Pradesh,MORADABAD,2005,Whole Year ,Banana,7,,,0,0,,,,,,,267
+Uttar Pradesh,MORADABAD,2006,Whole Year ,Banana,2,,,0,0,,,,,,,78
+Uttar Pradesh,MORADABAD,2008,Summer     ,Banana,7,,,0,0,,,,,,,267
+Uttar Pradesh,MORADABAD,2009,Summer     ,Banana,4,,,0,0,,,,,,,164
+Uttar Pradesh,MORADABAD,2011,Summer     ,Banana,2,,,18.5,4.9,77.6,0,18.7,157.6,13.5,6,87
+Uttar Pradesh,MORADABAD,2012,Summer     ,Banana,3,,,20.8,12,76.4,14.3,19.4,135.1,11.6,6,134
+Uttar Pradesh,MUZAFFARNAGAR,2004,Whole Year ,Banana,3,,,0,0,,,,,,,109
+Uttar Pradesh,MUZAFFARNAGAR,2005,Whole Year ,Banana,3,,,0,0,,,,,,,114
+Uttar Pradesh,MUZAFFARNAGAR,2006,Whole Year ,Banana,3,,,0,0,,,,,,,116
+Uttar Pradesh,MUZAFFARNAGAR,2008,Summer     ,Banana,3,,,0,0,,,,,,,114
+Uttar Pradesh,MUZAFFARNAGAR,2009,Summer     ,Banana,9,,,0,0,,,,,,,370
+Uttar Pradesh,MUZAFFARNAGAR,2011,Summer     ,Banana,5,,,18.2,4.2,73.2,0,15.8,157.4,13.5,6,218
+Uttar Pradesh,MUZAFFARNAGAR,2012,Summer     ,Banana,9,,,20.2,11.2,72,5.6,9,105.6,9.1,5,402
+Uttar Pradesh,MUZAFFARNAGAR,2013,Summer     ,Banana,9,,,18.5,3.7,54.3,0,14,127.4,11.2,5,392
+Uttar Pradesh,MUZAFFARNAGAR,2014,Summer     ,Banana,9,,,19.3,6.2,74.3,0,13.7,145.4,12.5,6,406
+Uttar Pradesh,PILIBHIT,2009,Summer     ,Banana,6,,,15.1,9.4,86.1,0,7.6,,,,247
+Uttar Pradesh,PILIBHIT,2011,Summer     ,Banana,83,,,18.7,6.3,83.8,8,20.9,162.3,14.1,6,3626
+Uttar Pradesh,PILIBHIT,2012,Summer     ,Banana,18,,,21.2,11.6,85,25,28.8,96.4,8.3,5,804
+Uttar Pradesh,PILIBHIT,2013,Summer     ,Banana,1,,,20,3.9,60.1,0,12.2,154.6,13.3,6,44
+Uttar Pradesh,PILIBHIT,2014,Summer     ,Banana,22,,,21.4,9.7,81.3,3,18.4,136.5,11.9,5,992
+Uttar Pradesh,PRATAPGARH,2005,Whole Year ,Banana,2,,,25.1,15.1,71.1,0,5.4,,,,76
+Uttar Pradesh,PRATAPGARH,2008,Summer     ,Banana,2,,,21.7,8.2,56.9,,3.6,,,,76
+Uttar Pradesh,PRATAPGARH,2009,Summer     ,Banana,3,,,17.7,11.4,86,,5.4,,,,123
+Uttar Pradesh,PRATAPGARH,2012,Summer     ,Banana,1,,,25.7,14.8,88.6,12.5,22.7,87.9,7.8,4,45
+Uttar Pradesh,RAE BARELI,2004,Whole Year ,Banana,1,,,14.1,8.1,83.8,0,5.4,,,,36
+Uttar Pradesh,RAE BARELI,2005,Whole Year ,Banana,1,,,20.1,14.1,80.4,0,11.2,,,,38
+Uttar Pradesh,RAE BARELI,2008,Summer     ,Banana,1,,,21.1,7.1,53.8,0,7.6,,,,38
+Uttar Pradesh,RAE BARELI,2009,Summer     ,Banana,9,,,17.1,9.1,80.4,0,13,,,,370
+Uttar Pradesh,RAE BARELI,2011,Summer     ,Banana,23,,,20.5,9.7,77.9,0,20.9,174.6,15,7,1005
+Uttar Pradesh,RAE BARELI,2012,Summer     ,Banana,12,,,21.2,13.1,92.7,54,27.7,74.7,6.5,3,536
+Uttar Pradesh,RAMPUR,2004,Whole Year ,Banana,1,,,13.9,9.4,77.8,0,1.8,,,,36
+Uttar Pradesh,SAMBHAL,2014,Summer     ,Banana,4,,,19.8,7.2,77.6,0,16.9,151.5,13.1,6,180
+Uttar Pradesh,SANT KABEER NAGAR,2004,Whole Year ,Banana,18,,,13.1,9.2,81.5,0,0,,,,655
+Uttar Pradesh,SANT KABEER NAGAR,2005,Whole Year ,Banana,172,,,19.9,13.1,71.1,0,3.6,,,,6554
+Uttar Pradesh,SANT KABEER NAGAR,2006,Whole Year ,Banana,24,,,21.9,11.4,68.6,0,1.8,,,,932
+Uttar Pradesh,SANT KABEER NAGAR,2008,Summer     ,Banana,172,,,22.7,6.7,62.2,0,1.8,,,,6554
+Uttar Pradesh,SANT KABEER NAGAR,2009,Summer     ,Banana,61,,,18.7,8.9,79.1,0,3.6,,,,2508
+Uttar Pradesh,SANT KABEER NAGAR,2011,Summer     ,Banana,42,,,22.2,9.7,73.1,1,22.7,164.3,14.3,6,1835
+Uttar Pradesh,SANT KABEER NAGAR,2012,Summer     ,Banana,29,,,22.8,13.4,78.4,20,24.8,78.4,6.8,3,1295
+Uttar Pradesh,SANT KABEER NAGAR,2013,Summer     ,Banana,31,,,20.8,7.8,59.5,0,8.3,129.5,11.4,5,1350
+Uttar Pradesh,SANT KABEER NAGAR,2014,Summer     ,Banana,58,,,25.4,11.8,66,0.3,16.9,138.6,12,6,2616
+Uttar Pradesh,SHAHJAHANPUR,2004,Whole Year ,Banana,2,,,13.9,9.4,77.8,0,1.8,,,,73
+Uttar Pradesh,SHAHJAHANPUR,2006,Whole Year ,Banana,2,,,24.4,10.7,72.9,0,1.8,,,,78
+Uttar Pradesh,SHAHJAHANPUR,2009,Summer     ,Banana,9,,,15.1,9.4,86.1,0,7.6,,,,370
+Uttar Pradesh,SHAHJAHANPUR,2012,Summer     ,Banana,3,,,21.2,11.1,86.8,25,24.8,73.9,6.2,3,134
+Uttar Pradesh,SHAHJAHANPUR,2014,Summer     ,Banana,4,,,21.3,9.7,80,3,17.6,133.2,11.5,6,180
+Uttar Pradesh,SHRAVASTI,2004,Whole Year ,Banana,6,,,0,0,,,,,,,218
+Uttar Pradesh,SHRAVASTI,2005,Whole Year ,Banana,4,,,0,0,,,,,,,153
+Uttar Pradesh,SHRAVASTI,2006,Whole Year ,Banana,10,,,0,0,,,,,,,388
+Uttar Pradesh,SHRAVASTI,2008,Summer     ,Banana,4,,,0,0,,,,,,,153
+Uttar Pradesh,SHRAVASTI,2009,Summer     ,Banana,8,,,0,0,,,,,,,329
+Uttar Pradesh,SHRAVASTI,2011,Summer     ,Banana,10,,,21.1,9.5,70.8,0.7,24.5,160,13.8,6,437
+Uttar Pradesh,SHRAVASTI,2013,Summer     ,Banana,8,,,19.7,5.6,51.2,0,11.5,150.4,13,6,348
+Uttar Pradesh,SHRAVASTI,2014,Summer     ,Banana,7,,,22.9,9.7,76.5,1.1,20.5,105.3,9.1,4,316
+Uttar Pradesh,SIDDHARTH NAGAR,2004,Whole Year ,Banana,9,,,13.1,9.2,81.5,0,0,,,,327
+Uttar Pradesh,SIDDHARTH NAGAR,2005,Whole Year ,Banana,1,,,19.9,13.1,71.1,0,3.6,,,,38
+Uttar Pradesh,SIDDHARTH NAGAR,2006,Whole Year ,Banana,9,,,21.9,11.4,68.6,0,1.8,,,,349
+Uttar Pradesh,SIDDHARTH NAGAR,2008,Summer     ,Banana,1,,,22.7,6.7,62.2,0,1.8,,,,38
+Uttar Pradesh,SIDDHARTH NAGAR,2009,Summer     ,Banana,46,,,18.7,8.9,79.1,0,3.6,,,,1892
+Uttar Pradesh,SIDDHARTH NAGAR,2014,Summer     ,Banana,14,,,25.4,11.8,66,0.3,16.9,138.6,12,6,632
+Uttar Pradesh,SITAPUR,2004,Whole Year ,Banana,5,,,0,0,,,,,,,182
+Uttar Pradesh,SITAPUR,2005,Whole Year ,Banana,14,,,0,0,,,,,,,534
+Uttar Pradesh,SITAPUR,2006,Whole Year ,Banana,41,,,0,0,,,,,,,1591
+Uttar Pradesh,SITAPUR,2008,Summer     ,Banana,14,,,0,0,,,,,,,534
+Uttar Pradesh,SITAPUR,2009,Summer     ,Banana,15,,,0,0,,,,,,,617
+Uttar Pradesh,SITAPUR,2011,Summer     ,Banana,35,,,20.8,8,68,0.3,24.1,163.6,14.2,6,1529
+Uttar Pradesh,SITAPUR,2012,Summer     ,Banana,32,,,17.4,10.9,86.5,47.3,23,55,4.7,4,1429
+Uttar Pradesh,SITAPUR,2013,Summer     ,Banana,278,,,19.3,4.2,48.2,0,11.9,144.3,12.5,6,12104
+Uttar Pradesh,SITAPUR,2014,Summer     ,Banana,123,,,23.6,11.1,74.4,0.4,19.1,136.5,11.8,6,5549
+Uttar Pradesh,SULTANPUR,2004,Whole Year ,Banana,10,,,0,0,,,,,,,364
+Uttar Pradesh,SULTANPUR,2005,Whole Year ,Banana,10,,,0,0,,,,,,,381
+Uttar Pradesh,SULTANPUR,2006,Whole Year ,Banana,9,,,0,0,,,,,,,349
+Uttar Pradesh,SULTANPUR,2008,Summer     ,Banana,10,,,0,0,,,,,,,381
+Uttar Pradesh,SULTANPUR,2009,Summer     ,Banana,22,,,0,0,,,,,,,905
+Uttar Pradesh,SULTANPUR,2011,Summer     ,Banana,27,,,,,,,,,,,1180
+Uttar Pradesh,SULTANPUR,2014,Summer     ,Banana,11,,,23.4,11.7,73.4,0,18,132.6,11.3,5,496
+Uttar Pradesh,UNNAO,2004,Whole Year ,Banana,1,,,14.1,8.1,83.8,0,5.4,,,,36
+Uttar Pradesh,UNNAO,2006,Whole Year ,Banana,1,,,28.1,10.1,69.3,0,7.6,,,,39
+Uttar Pradesh,UNNAO,2013,Summer     ,Banana,17,,,20.1,7,63.1,0,9.4,136.3,11.8,5,740
+Uttar Pradesh,UNNAO,2014,Summer     ,Banana,4,,,23,12,80.6,0,14.8,113.6,9.6,4,180
